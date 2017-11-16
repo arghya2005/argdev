@@ -1,0 +1,810 @@
+2017-11-11 14:14:01 INFO  LuceneCreateIndexApplication:48 - Starting LuceneCreateIndexApplication v0.0.1-SNAPSHOT on L-185008316 with PID 8628 (F:\POC\source code\LuceneCreateIndex\target\LuceneCreateIndex-0.0.1-SNAPSHOT.jar started by AR313567 in F:\POC\source code\LuceneCreateIndex\target)
+2017-11-11 14:14:01 INFO  LuceneCreateIndexApplication:593 - No active profile set, falling back to default profiles: default
+2017-11-11 14:14:02 INFO  AnnotationConfigApplicationContext:583 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@446cdf90: startup date [Sat Nov 11 14:14:02 IST 2017]; root of context hierarchy
+2017-11-11 14:14:11 INFO  AnnotationMBeanExporter:431 - Registering beans for JMX exposure on startup
+2017-11-11 14:14:11 INFO  LuceneCreateIndexApplication:57 - Started LuceneCreateIndexApplication in 16.912 seconds (JVM running for 25.974)
+2017-11-11 14:14:12 INFO  WriteIndex:60 - inside index writing
+2017-11-11 14:14:12 INFO  WriteIndex:64 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:14:12 INFO  WriteIndex:76 - Opening endex folder
+2017-11-11 14:14:12 INFO  WriteIndex:78 - Creating analyzer object
+2017-11-11 14:14:14 INFO  Utilfile:18 - inside get all files
+2017-11-11 14:14:14 INFO  WriteIndex:86 - geting all file from root ans sub folders
+2017-11-11 14:14:14 INFO  WriteIndex:88 - listfileNameF:\search\21383600_1490074620210.pdf
+2017-11-11 14:14:15 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:14:24 INFO  WriteIndex:112 - creating document
+2017-11-11 14:14:24 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:14:25 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:14:25 INFO  WriteIndex:88 - listfileNameF:\search\aWebviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:14:25 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:14:57 INFO  WriteIndex:112 - creating document
+2017-11-11 14:14:57 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:14:57 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:14:57 INFO  WriteIndex:88 - listfileNameF:\search\lucene_tutorial.pdf
+2017-11-11 14:14:57 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:05 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:05 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:05 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:05 INFO  WriteIndex:88 - listfileNameF:\search\New folder\New Microsoft Word Document.docx
+2017-11-11 14:15:05 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:06 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:06 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:06 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:06 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-richtext.rtf
+2017-11-11 14:15:06 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:06 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:06 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:06 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:06 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-word.docx
+2017-11-11 14:15:06 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:07 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:07 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:07 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:07 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-workbook.xlsx
+2017-11-11 14:15:07 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:10 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:10 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:10 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:10 INFO  WriteIndex:88 - listfileNameF:\search\New folder\User Guide_UMS_V1.3.docx
+2017-11-11 14:15:10 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:12 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:12 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:12 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:12 INFO  WriteIndex:88 - listfileNameF:\search\New folder (2)\New Microsoft Word Document.docx
+2017-11-11 14:15:12 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:13 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:13 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:13 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:13 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (2).docx
+2017-11-11 14:15:13 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:14 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:14 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:14 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:14 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (3).docx
+2017-11-11 14:15:14 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:14 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:14 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:14 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:14 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (4).docx
+2017-11-11 14:15:14 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:14 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:14 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:14 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:14 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (5).docx
+2017-11-11 14:15:14 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:14 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:14 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:14 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:14 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:15:14 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:14 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:14 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:14 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:14 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (7).docx
+2017-11-11 14:15:14 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:14 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:14 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:14 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:14 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (8).docx
+2017-11-11 14:15:14 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:14 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:14 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:14 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:14 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document.docx
+2017-11-11 14:15:14 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:15 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:15 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:15 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:15 INFO  WriteIndex:88 - listfileNameF:\search\Newfolder\Webviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:15:15 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:18 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:18 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:18 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:18 INFO  WriteIndex:88 - listfileNameF:\search\sample-html.html
+2017-11-11 14:15:18 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:19 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:19 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:19 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:19 INFO  WriteIndex:88 - listfileNameF:\search\sample-ppt.pptx
+2017-11-11 14:15:19 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:23 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:23 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:23 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:23 INFO  WriteIndex:88 - listfileNameF:\search\sample-word.docx
+2017-11-11 14:15:23 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:15:24 INFO  WriteIndex:112 - creating document
+2017-11-11 14:15:24 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:15:24 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:15:26 INFO  WriteIndex:138 - finally writer closing the index if previously not done due to exception.
+2017-11-11 14:15:26 INFO  LuceneCreateIndexApplication:37 - indexing first time -------success
+2017-11-11 14:15:26 INFO  WatchDirectory:35 - Inside file watcher :
+2017-11-11 14:15:26 INFO  WatchDirectory:39 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:15:26 INFO  WatchDirectory:47 - registering envents kind
+2017-11-11 14:17:44 INFO  AnnotationConfigApplicationContext:984 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@446cdf90: startup date [Sat Nov 11 14:14:02 IST 2017]; root of context hierarchy
+2017-11-11 14:17:44 INFO  AnnotationMBeanExporter:449 - Unregistering JMX-exposed beans on shutdown
+2017-11-11 14:18:20 INFO  LuceneCreateIndexApplication:48 - Starting LuceneCreateIndexApplication v0.0.1-SNAPSHOT on L-185008316 with PID 980 (F:\POC\source code\LuceneCreateIndex\target\LuceneCreateIndex-0.0.1-SNAPSHOT.jar started by AR313567 in F:\POC\source code\LuceneCreateIndex\target)
+2017-11-11 14:18:20 INFO  LuceneCreateIndexApplication:593 - No active profile set, falling back to default profiles: default
+2017-11-11 14:18:22 INFO  AnnotationConfigApplicationContext:583 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@446cdf90: startup date [Sat Nov 11 14:18:22 IST 2017]; root of context hierarchy
+2017-11-11 14:18:35 INFO  AnnotationMBeanExporter:431 - Registering beans for JMX exposure on startup
+2017-11-11 14:18:35 INFO  LuceneCreateIndexApplication:57 - Started LuceneCreateIndexApplication in 21.33 seconds (JVM running for 30.085)
+2017-11-11 14:18:36 INFO  WriteIndex:60 - inside index writing
+2017-11-11 14:18:36 INFO  WriteIndex:64 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:18:36 INFO  WriteIndex:76 - Opening endex folder
+2017-11-11 14:18:36 INFO  WriteIndex:78 - Creating analyzer object
+2017-11-11 14:18:39 INFO  Utilfile:18 - inside get all files
+2017-11-11 14:18:40 INFO  WriteIndex:86 - geting all file from root ans sub folders
+2017-11-11 14:18:40 INFO  WriteIndex:88 - listfileNameF:\search\21383600_1490074620210.pdf
+2017-11-11 14:18:41 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:18:54 INFO  WriteIndex:112 - creating document
+2017-11-11 14:18:54 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:18:56 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:18:56 INFO  WriteIndex:88 - listfileNameF:\search\aWebviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:18:56 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:19:44 INFO  WriteIndex:112 - creating document
+2017-11-11 14:19:44 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:19:44 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:19:44 INFO  WriteIndex:88 - listfileNameF:\search\lucene_tutorial.pdf
+2017-11-11 14:19:44 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:19:53 INFO  WriteIndex:112 - creating document
+2017-11-11 14:19:53 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:19:53 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:19:53 INFO  WriteIndex:88 - listfileNameF:\search\New folder\New Microsoft Word Document.docx
+2017-11-11 14:19:53 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:19:54 INFO  WriteIndex:112 - creating document
+2017-11-11 14:19:54 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:19:54 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:19:54 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-richtext.rtf
+2017-11-11 14:19:54 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:19:54 INFO  WriteIndex:112 - creating document
+2017-11-11 14:19:54 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:19:54 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:19:54 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-word.docx
+2017-11-11 14:19:54 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:19:56 INFO  WriteIndex:112 - creating document
+2017-11-11 14:19:56 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:19:56 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:19:56 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-workbook.xlsx
+2017-11-11 14:19:56 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:19:58 INFO  WriteIndex:112 - creating document
+2017-11-11 14:19:58 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:19:58 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:19:58 INFO  WriteIndex:88 - listfileNameF:\search\New folder\User Guide_UMS_V1.3.docx
+2017-11-11 14:19:58 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:00 INFO  WriteIndex:88 - listfileNameF:\search\New folder (2)\New Microsoft Word Document.docx
+2017-11-11 14:20:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:00 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (2).docx
+2017-11-11 14:20:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:01 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (3).docx
+2017-11-11 14:20:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:01 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (4).docx
+2017-11-11 14:20:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:01 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (5).docx
+2017-11-11 14:20:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:01 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:20:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:01 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (7).docx
+2017-11-11 14:20:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:01 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (8).docx
+2017-11-11 14:20:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:02 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:02 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:02 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:02 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document.docx
+2017-11-11 14:20:02 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:02 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:02 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:02 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:02 INFO  WriteIndex:88 - listfileNameF:\search\Newfolder\Webviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:20:02 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:05 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:05 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:05 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:05 INFO  WriteIndex:88 - listfileNameF:\search\sample-html.html
+2017-11-11 14:20:05 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:06 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:06 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:06 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:06 INFO  WriteIndex:88 - listfileNameF:\search\sample-ppt.pptx
+2017-11-11 14:20:06 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:09 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:09 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:09 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:09 INFO  WriteIndex:88 - listfileNameF:\search\sample-word.docx
+2017-11-11 14:20:09 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:20:09 INFO  WriteIndex:112 - creating document
+2017-11-11 14:20:09 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:20:09 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:20:12 INFO  WriteIndex:138 - finally writer closing the index if previously not done due to exception.
+2017-11-11 14:20:12 INFO  LuceneCreateIndexApplication:37 - indexing first time -------success
+2017-11-11 14:20:12 INFO  WatchDirectory:35 - Inside file watcher :
+2017-11-11 14:20:12 INFO  WatchDirectory:39 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:20:12 INFO  WatchDirectory:47 - registering envents kind
+2017-11-11 14:24:41 INFO  WatchDirectory:57 - eventENTRY_CREATE
+2017-11-11 14:24:41 INFO  WatchDirectory:59 - fileF:\search\~$w Microsoft Word Document (6).docx
+2017-11-11 14:24:41 INFO  WriteIndex:60 - inside index writing
+2017-11-11 14:24:41 INFO  WriteIndex:64 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:24:41 INFO  WriteIndex:76 - Opening endex folder
+2017-11-11 14:24:41 INFO  WriteIndex:78 - Creating analyzer object
+2017-11-11 14:24:41 INFO  Utilfile:18 - inside get all files
+2017-11-11 14:24:41 INFO  WriteIndex:86 - geting all file from root ans sub folders
+2017-11-11 14:24:41 INFO  WriteIndex:88 - listfileNameF:\search\21383600_1490074620210.pdf
+2017-11-11 14:24:41 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:41 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:41 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:41 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:41 INFO  WriteIndex:88 - listfileNameF:\search\aWebviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:24:41 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:50 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:50 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:50 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:50 INFO  WriteIndex:88 - listfileNameF:\search\lucene_tutorial.pdf
+2017-11-11 14:24:50 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:53 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:53 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:53 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:53 INFO  WriteIndex:88 - listfileNameF:\search\New folder\New Microsoft Word Document.docx
+2017-11-11 14:24:53 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:53 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:53 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:53 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:53 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-richtext.rtf
+2017-11-11 14:24:53 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:53 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:53 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:53 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:53 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-word.docx
+2017-11-11 14:24:53 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:54 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:54 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:54 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:54 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-workbook.xlsx
+2017-11-11 14:24:54 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:56 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:56 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:56 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:56 INFO  WriteIndex:88 - listfileNameF:\search\New folder\User Guide_UMS_V1.3.docx
+2017-11-11 14:24:56 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:58 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:58 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:58 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:58 INFO  WriteIndex:88 - listfileNameF:\search\New folder (2)\New Microsoft Word Document.docx
+2017-11-11 14:24:58 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:59 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:59 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:59 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:59 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (2).docx
+2017-11-11 14:24:59 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:59 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:59 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:59 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:59 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (3).docx
+2017-11-11 14:24:59 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:24:59 INFO  WriteIndex:112 - creating document
+2017-11-11 14:24:59 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:24:59 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:24:59 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (4).docx
+2017-11-11 14:24:59 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:00 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (5).docx
+2017-11-11 14:25:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:00 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:25:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:00 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (7).docx
+2017-11-11 14:25:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:00 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (8).docx
+2017-11-11 14:25:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:01 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document.docx
+2017-11-11 14:25:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:01 INFO  WriteIndex:88 - listfileNameF:\search\Newfolder\Webviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:25:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:04 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:04 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:04 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:04 INFO  WriteIndex:88 - listfileNameF:\search\sample-html.html
+2017-11-11 14:25:04 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:04 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:04 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:04 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:04 INFO  WriteIndex:88 - listfileNameF:\search\sample-ppt.pptx
+2017-11-11 14:25:04 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:06 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:06 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:06 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:06 INFO  WriteIndex:88 - listfileNameF:\search\sample-word.docx
+2017-11-11 14:25:06 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:06 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:06 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:06 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:06 INFO  WriteIndex:88 - listfileNameF:\search\~$w Microsoft Word Document (6).docx
+2017-11-11 14:25:06 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:06 ERROR WriteIndex:132 - Error code 101 : file not foundjava.io.FileNotFoundException: F:\search\~$w Microsoft Word Document (6).docx (The system cannot find the file specified)
+2017-11-11 14:25:06 INFO  WriteIndex:138 - finally writer closing the index if previously not done due to exception.
+2017-11-11 14:25:07 INFO  WatchDirectory:67 - -------failure----------
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_MODIFY
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\~$w Microsoft Word Document (6).docx
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_CREATE
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\~WRD0000.tmp
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_MODIFY
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\~WRD0000.tmp
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_DELETE
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_CREATE
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\~WRL0001.tmp
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_DELETE
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\~WRD0000.tmp
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_CREATE
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_MODIFY
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_MODIFY
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\~WRL0001.tmp
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_DELETE
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\~WRL0001.tmp
+2017-11-11 14:25:07 INFO  WatchDirectory:57 - eventENTRY_DELETE
+2017-11-11 14:25:07 INFO  WatchDirectory:59 - fileF:\search\~$w Microsoft Word Document (6).docx
+2017-11-11 14:25:07 INFO  WriteIndex:60 - inside index writing
+2017-11-11 14:25:07 INFO  WriteIndex:64 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:25:07 INFO  WriteIndex:76 - Opening endex folder
+2017-11-11 14:25:07 INFO  WriteIndex:78 - Creating analyzer object
+2017-11-11 14:25:07 INFO  Utilfile:18 - inside get all files
+2017-11-11 14:25:07 INFO  WriteIndex:86 - geting all file from root ans sub folders
+2017-11-11 14:25:07 INFO  WriteIndex:88 - listfileNameF:\search\21383600_1490074620210.pdf
+2017-11-11 14:25:07 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:07 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:07 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:07 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:07 INFO  WriteIndex:88 - listfileNameF:\search\aWebviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:25:07 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:12 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:12 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:12 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:12 INFO  WriteIndex:88 - listfileNameF:\search\lucene_tutorial.pdf
+2017-11-11 14:25:12 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:14 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:14 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:14 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:14 INFO  WriteIndex:88 - listfileNameF:\search\New folder\New Microsoft Word Document.docx
+2017-11-11 14:25:14 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:15 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:15 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:15 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:15 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-richtext.rtf
+2017-11-11 14:25:15 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:15 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:15 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:15 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:15 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-word.docx
+2017-11-11 14:25:15 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:16 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:16 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:16 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:16 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-workbook.xlsx
+2017-11-11 14:25:16 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:16 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:16 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:16 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:16 INFO  WriteIndex:88 - listfileNameF:\search\New folder\User Guide_UMS_V1.3.docx
+2017-11-11 14:25:16 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:17 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:17 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:17 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:18 INFO  WriteIndex:88 - listfileNameF:\search\New folder (2)\New Microsoft Word Document.docx
+2017-11-11 14:25:18 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:18 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:18 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:18 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:18 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (2).docx
+2017-11-11 14:25:18 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:18 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:18 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:18 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:18 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (3).docx
+2017-11-11 14:25:18 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:18 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:18 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:18 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:18 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (4).docx
+2017-11-11 14:25:18 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:18 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:18 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:18 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:18 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (5).docx
+2017-11-11 14:25:18 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:18 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:18 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:18 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:18 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:25:18 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:19 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:19 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:19 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:19 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (7).docx
+2017-11-11 14:25:19 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:19 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:19 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:19 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:19 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (8).docx
+2017-11-11 14:25:19 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:19 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:19 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:19 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:19 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document.docx
+2017-11-11 14:25:19 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:19 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:19 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:19 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:19 INFO  WriteIndex:88 - listfileNameF:\search\Newfolder\Webviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:25:19 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:22 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:22 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:22 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:22 INFO  WriteIndex:88 - listfileNameF:\search\sample-html.html
+2017-11-11 14:25:22 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:22 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:22 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:22 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:22 INFO  WriteIndex:88 - listfileNameF:\search\sample-ppt.pptx
+2017-11-11 14:25:22 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:23 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:23 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:23 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:23 INFO  WriteIndex:88 - listfileNameF:\search\sample-word.docx
+2017-11-11 14:25:23 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:25:23 INFO  WriteIndex:112 - creating document
+2017-11-11 14:25:23 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:25:23 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:25:24 INFO  WriteIndex:138 - finally writer closing the index if previously not done due to exception.
+2017-11-11 14:25:24 INFO  WatchDirectory:67 - -------success----------
+2017-11-11 14:26:09 INFO  WatchDirectory:57 - eventENTRY_MODIFY
+2017-11-11 14:26:09 INFO  WatchDirectory:59 - fileF:\search\New folder
+2017-11-11 14:26:09 INFO  WriteIndex:60 - inside index writing
+2017-11-11 14:26:09 INFO  WriteIndex:64 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:26:09 INFO  WriteIndex:76 - Opening endex folder
+2017-11-11 14:26:09 INFO  WriteIndex:78 - Creating analyzer object
+2017-11-11 14:26:09 INFO  Utilfile:18 - inside get all files
+2017-11-11 14:26:09 INFO  WriteIndex:86 - geting all file from root ans sub folders
+2017-11-11 14:26:09 INFO  WriteIndex:88 - listfileNameF:\search\21383600_1490074620210.pdf
+2017-11-11 14:26:09 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:10 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:10 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:10 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:10 INFO  WriteIndex:88 - listfileNameF:\search\aWebviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:26:10 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:18 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:18 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:18 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:18 INFO  WriteIndex:88 - listfileNameF:\search\lucene_tutorial.pdf
+2017-11-11 14:26:18 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:20 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:20 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:20 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:20 INFO  WriteIndex:88 - listfileNameF:\search\New folder\New Microsoft Word Document.docx
+2017-11-11 14:26:20 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:20 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:20 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:20 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:20 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-richtext.rtf
+2017-11-11 14:26:20 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:20 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:20 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:20 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:20 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-word.docx
+2017-11-11 14:26:20 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:21 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:21 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:21 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:21 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-workbook.xlsx
+2017-11-11 14:26:21 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:21 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:21 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:21 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:21 INFO  WriteIndex:88 - listfileNameF:\search\New folder\User Guide_UMS_V1.3.docx
+2017-11-11 14:26:21 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:22 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:22 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:22 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:22 INFO  WriteIndex:88 - listfileNameF:\search\New folder\~$sample-workbook.xlsx
+2017-11-11 14:26:22 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:23 ERROR WriteIndex:132 - Error code 101 : file not foundjava.io.FileNotFoundException: F:\search\New folder\~$sample-workbook.xlsx (The process cannot access the file because it is being used by another process)
+2017-11-11 14:26:23 INFO  WriteIndex:138 - finally writer closing the index if previously not done due to exception.
+2017-11-11 14:26:24 INFO  WatchDirectory:67 - -------failure----------
+2017-11-11 14:26:28 INFO  WatchDirectory:57 - eventENTRY_MODIFY
+2017-11-11 14:26:28 INFO  WatchDirectory:59 - fileF:\search\New folder
+2017-11-11 14:26:28 INFO  WriteIndex:60 - inside index writing
+2017-11-11 14:26:28 INFO  WriteIndex:64 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:26:28 INFO  WriteIndex:76 - Opening endex folder
+2017-11-11 14:26:28 INFO  WriteIndex:78 - Creating analyzer object
+2017-11-11 14:26:28 INFO  Utilfile:18 - inside get all files
+2017-11-11 14:26:28 INFO  WriteIndex:86 - geting all file from root ans sub folders
+2017-11-11 14:26:28 INFO  WriteIndex:88 - listfileNameF:\search\21383600_1490074620210.pdf
+2017-11-11 14:26:28 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:28 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:28 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:28 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:28 INFO  WriteIndex:88 - listfileNameF:\search\aWebviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:26:28 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:34 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:34 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:34 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:34 INFO  WriteIndex:88 - listfileNameF:\search\lucene_tutorial.pdf
+2017-11-11 14:26:34 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:37 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:37 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:37 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:37 INFO  WriteIndex:88 - listfileNameF:\search\New folder\08772100
+2017-11-11 14:26:37 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:37 ERROR WriteIndex:132 - Error code 101 : file not foundjava.io.FileNotFoundException: F:\search\New folder\08772100 (The system cannot find the file specified)
+2017-11-11 14:26:37 INFO  WriteIndex:138 - finally writer closing the index if previously not done due to exception.
+2017-11-11 14:26:38 INFO  WatchDirectory:67 - -------failure----------
+2017-11-11 14:26:38 INFO  WatchDirectory:57 - eventENTRY_MODIFY
+2017-11-11 14:26:38 INFO  WatchDirectory:59 - fileF:\search\New folder
+2017-11-11 14:26:38 INFO  WriteIndex:60 - inside index writing
+2017-11-11 14:26:38 INFO  WriteIndex:64 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:26:38 INFO  WriteIndex:76 - Opening endex folder
+2017-11-11 14:26:38 INFO  WriteIndex:78 - Creating analyzer object
+2017-11-11 14:26:38 INFO  Utilfile:18 - inside get all files
+2017-11-11 14:26:38 INFO  WriteIndex:86 - geting all file from root ans sub folders
+2017-11-11 14:26:38 INFO  WriteIndex:88 - listfileNameF:\search\21383600_1490074620210.pdf
+2017-11-11 14:26:38 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:38 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:38 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:38 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:38 INFO  WriteIndex:88 - listfileNameF:\search\aWebviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:26:38 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:42 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:42 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:43 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:43 INFO  WriteIndex:88 - listfileNameF:\search\lucene_tutorial.pdf
+2017-11-11 14:26:43 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:44 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:44 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:44 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:44 INFO  WriteIndex:88 - listfileNameF:\search\New folder\New Microsoft Word Document.docx
+2017-11-11 14:26:44 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:45 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:45 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:45 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:45 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-richtext.rtf
+2017-11-11 14:26:45 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:45 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:45 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:45 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:45 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-word.docx
+2017-11-11 14:26:45 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:45 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:45 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:46 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:46 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-workbook.xlsx
+2017-11-11 14:26:46 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:46 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:46 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:46 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:46 INFO  WriteIndex:88 - listfileNameF:\search\New folder\User Guide_UMS_V1.3.docx
+2017-11-11 14:26:46 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:47 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:47 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:47 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:47 INFO  WriteIndex:88 - listfileNameF:\search\New folder (2)\New Microsoft Word Document.docx
+2017-11-11 14:26:47 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:47 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:47 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:47 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:47 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (2).docx
+2017-11-11 14:26:47 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:48 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:48 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:48 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:48 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (3).docx
+2017-11-11 14:26:48 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:48 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:48 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:48 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:48 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (4).docx
+2017-11-11 14:26:48 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:48 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:48 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:48 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:48 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (5).docx
+2017-11-11 14:26:48 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:48 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:48 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:48 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:48 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:26:48 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:48 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:48 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:48 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:48 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (7).docx
+2017-11-11 14:26:48 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:48 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:48 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:48 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:48 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (8).docx
+2017-11-11 14:26:48 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:49 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:49 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:49 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:49 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document.docx
+2017-11-11 14:26:49 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:49 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:49 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:49 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:49 INFO  WriteIndex:88 - listfileNameF:\search\Newfolder\Webviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:26:49 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:51 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:51 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:51 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:51 INFO  WriteIndex:88 - listfileNameF:\search\sample-html.html
+2017-11-11 14:26:51 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:52 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:52 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:52 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:52 INFO  WriteIndex:88 - listfileNameF:\search\sample-ppt.pptx
+2017-11-11 14:26:52 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:53 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:53 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:53 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:53 INFO  WriteIndex:88 - listfileNameF:\search\sample-word.docx
+2017-11-11 14:26:53 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:53 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:53 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:53 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:54 INFO  WriteIndex:138 - finally writer closing the index if previously not done due to exception.
+2017-11-11 14:26:54 INFO  WatchDirectory:67 - -------success----------
+2017-11-11 14:26:54 INFO  WatchDirectory:57 - eventENTRY_MODIFY
+2017-11-11 14:26:54 INFO  WatchDirectory:59 - fileF:\search\New folder
+2017-11-11 14:26:54 INFO  WriteIndex:60 - inside index writing
+2017-11-11 14:26:54 INFO  WriteIndex:64 - Capturing Root folder and index older from resource buldle
+2017-11-11 14:26:54 INFO  WriteIndex:76 - Opening endex folder
+2017-11-11 14:26:54 INFO  WriteIndex:78 - Creating analyzer object
+2017-11-11 14:26:54 INFO  Utilfile:18 - inside get all files
+2017-11-11 14:26:54 INFO  WriteIndex:86 - geting all file from root ans sub folders
+2017-11-11 14:26:54 INFO  WriteIndex:88 - listfileNameF:\search\21383600_1490074620210.pdf
+2017-11-11 14:26:54 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:54 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:54 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:54 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:54 INFO  WriteIndex:88 - listfileNameF:\search\aWebviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:26:54 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:26:58 INFO  WriteIndex:112 - creating document
+2017-11-11 14:26:58 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:26:58 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:26:58 INFO  WriteIndex:88 - listfileNameF:\search\lucene_tutorial.pdf
+2017-11-11 14:26:58 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:00 INFO  WriteIndex:88 - listfileNameF:\search\New folder\New Microsoft Word Document.docx
+2017-11-11 14:27:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:00 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-richtext.rtf
+2017-11-11 14:27:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:00 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:00 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:00 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:00 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-word.docx
+2017-11-11 14:27:00 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:01 INFO  WriteIndex:88 - listfileNameF:\search\New folder\sample-workbook.xlsx
+2017-11-11 14:27:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:01 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:01 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:01 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:01 INFO  WriteIndex:88 - listfileNameF:\search\New folder\User Guide_UMS_V1.3.docx
+2017-11-11 14:27:01 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:02 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:02 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:02 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:02 INFO  WriteIndex:88 - listfileNameF:\search\New folder (2)\New Microsoft Word Document.docx
+2017-11-11 14:27:02 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:02 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:02 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:02 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:02 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (2).docx
+2017-11-11 14:27:02 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:03 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:03 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:03 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:03 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (3).docx
+2017-11-11 14:27:03 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:03 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:03 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:03 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:03 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (4).docx
+2017-11-11 14:27:03 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:03 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:03 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:03 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:03 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (5).docx
+2017-11-11 14:27:03 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:03 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:03 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:03 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:03 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (6).docx
+2017-11-11 14:27:03 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:03 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:03 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:03 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:03 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (7).docx
+2017-11-11 14:27:03 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:03 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:03 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:03 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:03 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document (8).docx
+2017-11-11 14:27:03 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:03 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:03 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:03 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:03 INFO  WriteIndex:88 - listfileNameF:\search\New Microsoft Word Document.docx
+2017-11-11 14:27:03 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:04 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:04 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:04 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:04 INFO  WriteIndex:88 - listfileNameF:\search\Newfolder\Webviewer_pahse5_1_SetupDocument.docx
+2017-11-11 14:27:04 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:06 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:06 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:06 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:06 INFO  WriteIndex:88 - listfileNameF:\search\sample-html.html
+2017-11-11 14:27:06 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:06 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:06 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:06 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:06 INFO  WriteIndex:88 - listfileNameF:\search\sample-ppt.pptx
+2017-11-11 14:27:06 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:07 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:07 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:07 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:07 INFO  WriteIndex:88 - listfileNameF:\search\sample-word.docx
+2017-11-11 14:27:07 INFO  WriteIndex:91 - Tika parsing handler created
+2017-11-11 14:27:07 INFO  WriteIndex:112 - creating document
+2017-11-11 14:27:07 INFO  WriteIndex:118 - creating fields for document
+2017-11-11 14:27:07 INFO  WriteIndex:120 - writing documnt on indexer
+2017-11-11 14:27:08 INFO  WriteIndex:138 - finally writer closing the index if previously not done due to exception.
+2017-11-11 14:27:08 INFO  WatchDirectory:67 - -------success----------
+2017-11-11 14:28:12 INFO  AnnotationConfigApplicationContext:984 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@446cdf90: startup date [Sat Nov 11 14:18:22 IST 2017]; root of context hierarchy
+2017-11-11 14:28:12 INFO  AnnotationMBeanExporter:449 - Unregistering JMX-exposed beans on shutdown

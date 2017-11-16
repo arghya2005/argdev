@@ -1,0 +1,3 @@
+com\lucene\search\resource\LuceneSearchController.class
+com\lucene\search\SpringLuceneSearchApplication.class
+com\lucene\search\index\LuceneSearch.class

@@ -1,0 +1,4 @@
+com\lucene\createindex\utils\Utilfile.class
+com\lucene\createindex\DirectoryWatcher\WriteIndex.class
+com\lucene\createindex\DirectoryWatcher\WatchDirectory.class
+com\lucene\createindex\LuceneCreateIndex\LuceneCreateIndexApplication.class
